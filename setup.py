@@ -43,7 +43,7 @@ setup(
     install_requires=[
         "numpy>=1.18.1,<2.0",
         "torch>=1.9,<2.0,!=1.13.0",
-        "gymnasium>=0.27,<1.0",
+        "gymnasium>=0.26,<1.0",
         "pyglet",  # gym dependency
         "tensorboard>=1.15.0",
         "tensorboardx>=2.0",
